@@ -1,0 +1,8 @@
+# API Key & Database
+.env
+
+#uv sync
+.venv
+
+# cache
+__pycache__/
